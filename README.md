@@ -1,7 +1,7 @@
 # 💫 About Me:
 An AI-based travel recommendation system for Smart India Hackathon and building innovative projects and also Working on a Startup Name As Createrverse AI one platform for infinite creations . <br>Open-source AI and WEB3 projects that create real-world impact.<br>Optimizing AI models for better performance and exploring funding opportunities for my startup. <br>Advance Machine Learning concepts , API intergration , and building scalable AI Systems .<br>AI models , startup building , tech internships , and how to get Started in open source .<br>I once pitched my startup idea to a top AI creator and got incredible insights that changed how I approch innovation!<br>
 
-
+   
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/siddhartha01-06.bsky.social) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Siddhartha01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_unpredictable_sid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Siddhartha Singh) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Siddhartha Singh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/siddhartha_664) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhsiddhartha664@gmail.com) 
 
