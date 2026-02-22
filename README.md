@@ -48,7 +48,9 @@ const siddhartha = {
     "Full-Stack Developer",
     "AI/ML Engineer",
     "Cloud Native Builder",
-    "Open Source Contributor"
+    "Open Source Contributor",
+    "Bug Bounty Learner",
+    "Ethical Hacker"
   ],
   coFounder_CTO: "EliteFolks",
   mission: "Building tools that empower developers",
@@ -191,19 +193,16 @@ const siddhartha = {
 </p>
 </details>
 
-<!-- TOOLS & DESIGN -->
+<!-- ETHICAL HACKING & BUG BOUNTY -->
 <details open>
-<summary><b>🎨 Design & Tools</b></summary>
+<summary><b>🛡️ Ethical Hacking & Bug Bounty</b></summary>
 <br/>
 <p>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
-<img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
-<img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Zenmap-2E8B57?style=for-the-badge&logo=nmap&logoColor=white" />
 </p>
 </details>
 
@@ -227,35 +226,21 @@ const siddhartha = {
 
 <br/>
 
+<!-- STATS - using reliable shields.io badges instead of rate-limited vercel apps -->
 <p>
-<a href="https://github.com/Siddhartha-singh01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Siddhartha-singh01&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=8b5cf6&text_color=a5b4fc&ring_color=c084fc&count_private=true" />
-</a>
-<a href="https://github.com/Siddhartha-singh01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhartha-singh01&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=a5b4fc&langs_count=8" />
-</a>
+<img src="https://img.shields.io/badge/Total_Contributions-317+-c084fc?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Repositories-40+-8b5cf6?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/github/stars/Siddhartha-singh01?label=Total+Stars&style=for-the-badge&color=ec4899&labelColor=0d1117" />
 </p>
 
 <br/>
 
-<!-- STREAK STATS -->
+<!-- STREAK STATS - using demolab (official reliable host) -->
 <a href="https://github.com/Siddhartha-singh01">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhartha-singh01&theme=midnight-purple&hide_border=true&background=0d1117&stroke=6366f1&ring=c084fc&fire=ec4899&currStreakLabel=c084fc&sideLabels=8b5cf6&currStreakNum=a5b4fc&sideNums=a5b4fc&dates=6366f1" width="70%" />
+  <img src="https://streak-stats.demolab.com/?user=Siddhartha-singh01&theme=midnight-purple&hide_border=true&background=0d1117&stroke=6366f1&ring=c084fc&fire=ec4899&currStreakLabel=c084fc&sideLabels=8b5cf6&currStreakNum=a5b4fc&sideNums=a5b4fc&dates=6366f1" width="70%" />
 </a>
 
-<br/><br/>
-
-<!-- ACTIVITY GRAPH -->
-<a href="https://github.com/Siddhartha-singh01">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhartha-singh01&bg_color=0d1117&color=a5b4fc&line=c084fc&point=ec4899&area=true&area_color=6366f1&hide_border=true&custom_title=Contribution%20Timeline" width="95%" />
-</a>
-
-<br/><br/>
-
-<!-- TROPHIES -->
-<a href="https://github.com/Siddhartha-singh01">
-  <img src="https://github-profile-trophy.vercel.app/?username=Siddhartha-singh01&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
-</a>
+<br/>
 
 </div>
 
@@ -313,22 +298,97 @@ const siddhartha = {
 
 <div align="center">
 
+## 🏅 `OPEN SOURCE ACHIEVEMENTS`
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🔥-LFX_2025-0052cc?style=for-the-badge&labelColor=0d1117" /><br/><br/>
+<b>LFX Mentorship 2025</b><br/>
+<sub>Contributed to Linux Foundation projects</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🏆-Hacktoberfest_2025-ec4899?style=for-the-badge&labelColor=0d1117" /><br/><br/>
+<b>Super Contributor</b><br/>
+<sub>Earned Super Contributor badge at Hacktoberfest 2025</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/☀️-Summer_of_Bitcoin-f7931a?style=for-the-badge&labelColor=0d1117" /><br/><br/>
+<b>Selected — SoB 2026</b><br/>
+<sub>Selected for Summer of Bitcoin 2026 program</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🚀-EliteFolks-6366f1?style=for-the-badge&labelColor=0d1117" /><br/><br/>
+<b>Co-Founder & CTO</b><br/>
+<sub>Building the developer community of tomorrow</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- PINNED REPOS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<div align="center">
+
 ## 📌 `FEATURED PROJECTS`
 
 <br/>
 
-<a href="https://github.com/Siddhartha-singh01/Milstonenenest">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhartha-singh01&repo=Milstonenenest&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=8b5cf6&text_color=a5b4fc" />
-</a>
-<a href="https://github.com/Siddhartha-singh01/-Crypto-Stock-Market-Tracker-Fintech-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhartha-singh01&repo=-Crypto-Stock-Market-Tracker-Fintech-&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=8b5cf6&text_color=a5b4fc" />
-</a>
-<a href="https://github.com/Siddhartha-singh01/AuditMinds">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhartha-singh01&repo=AuditMinds&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=8b5cf6&text_color=a5b4fc" />
-</a>
-<a href="https://github.com/Siddhartha-singh01/sim_My_version">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhartha-singh01&repo=sim_My_version&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=8b5cf6&text_color=a5b4fc" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Siddhartha-singh01/Milstonenenest">🏆 Milstonenenest</a></h3>
+<p>Milestone Tracker — track and manage project milestones efficiently</p>
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/github/stars/Siddhartha-singh01/Milstonenenest?style=flat-square&color=c084fc&labelColor=0d1117" />
+<img src="https://img.shields.io/github/forks/Siddhartha-singh01/Milstonenenest?style=flat-square&color=6366f1&labelColor=0d1117" />
+</p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Siddhartha-singh01/-Crypto-Stock-Market-Tracker-Fintech-">📈 Crypto Stock Market Tracker</a></h3>
+<p>Fintech app for real-time crypto & stock market tracking</p>
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/github/stars/Siddhartha-singh01/-Crypto-Stock-Market-Tracker-Fintech-?style=flat-square&color=c084fc&labelColor=0d1117" />
+<img src="https://img.shields.io/github/forks/Siddhartha-singh01/-Crypto-Stock-Market-Tracker-Fintech-?style=flat-square&color=6366f1&labelColor=0d1117" />
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/CCExtractor/ccsync">🔗 CCExtractor/ccsync</a></h3>
+<p>Built for Taskserver Project @CCExtractor</p>
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/github/stars/CCExtractor/ccsync?style=flat-square&color=c084fc&labelColor=0d1117" />
+<img src="https://img.shields.io/github/forks/CCExtractor/ccsync?style=flat-square&color=6366f1&labelColor=0d1117" />
+</p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Siddhartha-singh01/sim_My_version">⚙️ sim_My_version</a></h3>
+<p>Open-source platform to build and deploy AI agent workflows</p>
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/github/stars/Siddhartha-singh01/sim_My_version?style=flat-square&color=c084fc&labelColor=0d1117" />
+<img src="https://img.shields.io/github/forks/Siddhartha-singh01/sim_My_version?style=flat-square&color=6366f1&labelColor=0d1117" />
+</p>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -346,26 +406,55 @@ const siddhartha = {
 
 <div align="center">
 
-## 📊 `PROFILE SUMMARY`
+## 📊 `LANGUAGES & ACTIVITY`
 
 <br/>
 
-<p>
-<a href="https://github.com/Siddhartha-singh01">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siddhartha-singh01&theme=midnight-purple" width="95%" />
-</a>
-</p>
+<!-- Language breakdown using reliable shields.io -->
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117" /><br/>
+<sub>⭐⭐⭐⭐⭐</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" /><br/>
+<sub>⭐⭐⭐⭐</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" /><br/>
+<sub>⭐⭐⭐⭐</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Go-Learning-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0d1117" /><br/>
+<sub>⭐⭐⭐</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Solana-Learning-9945FF?style=for-the-badge&logo=solana&logoColor=white&labelColor=0d1117" /><br/>
+<sub>⭐⭐</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Rust-Learning-DEA584?style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1117" /><br/>
+<sub>⭐⭐</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Next.js-Learning-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d1117" /><br/>
+<sub>⭐⭐</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Three.js-Learning-000000?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=0d1117" /><br/>
+<sub>⭐⭐</sub>
+</td>
+</tr>
+</table>
 
+<br/>
+
+<!-- Metrics using reliable sources -->
 <p>
-<a href="https://github.com/Siddhartha-singh01">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siddhartha-singh01&theme=midnight-purple" width="32%" />
-</a>
-<a href="https://github.com/Siddhartha-singh01">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siddhartha-singh01&theme=midnight-purple" width="32%" />
-</a>
-<a href="https://github.com/Siddhartha-singh01">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Siddhartha-singh01&theme=midnight-purple&utcOffset=5.30" width="32%" />
-</a>
+<img src="https://img.shields.io/github/last-commit/Siddhartha-singh01/Siddhartha-singh01?style=for-the-badge&label=Last+Active&color=8b5cf6&labelColor=0d1117" />
 </p>
 
 </div>
@@ -412,8 +501,10 @@ const siddhartha = {
 
 <br/><br/>
 
-<!-- SPOTIFY / QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple&border=true" width="70%" />
+<!-- QUOTE -->
+<br/>
+
+> *"It is easier to change the specification to fit the program than vice versa."* — **Alan Perlis**
 
 </div>
 
