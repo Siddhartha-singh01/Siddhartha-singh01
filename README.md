@@ -477,7 +477,7 @@ const siddhartha = {
 
 <br/>
 
-<a href="https://linkedin.com/in/Siddhartha-Singh" target="_blank">
+<a href="https://www.linkedin.com/in/siddhartha-singh-3ab11426b" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://x.com/siddhartha_664" target="_blank">
@@ -488,6 +488,9 @@ const siddhartha = {
 </a>
 <a href="https://instagram.com/Siddhartha" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://medium.com/@siddhartha_23998" target="_blank">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 <a href="https://bsky.app" target="_blank">
 <img src="https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white" />
