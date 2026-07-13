@@ -7,14 +7,13 @@ I design and ship products end to end · product architecture, UI systems, backe
 
 **Elsewhere**
 
-| | |
-| :--- | :--- |
-| Portfolio | [siddhartha.pro](https://www.siddhartha.pro/) |
-| LinkedIn | [linkedin.com/in/siddhartha-singh-3ab11426b](https://www.linkedin.com/in/siddhartha-singh-3ab11426b) |
-| npm | [npmjs.com/~siddharthasingh](https://www.npmjs.com/~siddharthasingh) |
-| Email | [siddharthagithub0007@gmail.com](mailto:siddharthagithub0007@gmail.com) |
-| Writing | [Medium](https://medium.com/@siddhartha_23998) |
-| X | [x.com/siddhartha_664](https://x.com/siddhartha_664) |
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=white)](https://www.siddhartha.pro/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhartha-singh-3ab11426b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Siddhartha-singh01)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:siddharthagithub0007@gmail.com)
+[![Book%20a%20call](https://img.shields.io/badge/Book_a_call-006BFF?style=flat-square&logo=calendly&logoColor=white)](https://calendly.com/siddharthagithub0007)
+
+Also: [npm](https://www.npmjs.com/~siddharthasingh) · [Medium](https://medium.com/@siddhartha_23998) · [X](https://x.com/siddhartha_664)
 
 ---
 
@@ -141,11 +140,15 @@ More on tools and hardware: [siddhartha.pro/uses](https://www.siddhartha.pro/use
 
 ## Contact
 
-Prefer the portfolio contact form or LinkedIn for introductions; email for anything direct.
+Prefer the portfolio contact form or LinkedIn for introductions; email for anything direct. Use Calendly when a call is the right format.
 
 **Open to:** campus talks and open source workshops · OSS collaboration · product and systems engineering conversations
 
-[siddhartha.pro](https://www.siddhartha.pro/) · [LinkedIn](https://www.linkedin.com/in/siddhartha-singh-3ab11426b) · [npm](https://www.npmjs.com/~siddharthasingh) · [Email](mailto:siddharthagithub0007@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=white)](https://www.siddhartha.pro/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhartha-singh-3ab11426b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Siddhartha-singh01)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:siddharthagithub0007@gmail.com)
+[![Book%20a%20call](https://img.shields.io/badge/Book_a_call-006BFF?style=flat-square&logo=calendly&logoColor=white)](https://calendly.com/siddharthagithub0007)
 
 If you maintain a project I have opened a PR on, or you want to talk about EliteFolks, open source, or systems work · write. I read carefully and reply when I can add something useful.
 
