@@ -12,6 +12,7 @@ I design and ship products end to end · product architecture, UI systems, backe
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Siddhartha-singh01)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:siddharthagithub0007@gmail.com)
 [![Book%20a%20call](https://img.shields.io/badge/Book_a_call-006BFF?style=flat-square&logo=calendly&logoColor=white)](https://calendly.com/siddharthagithub0007)
+![Profile views](https://komarev.com/ghpvc/?username=Siddhartha-singh01&label=Profile%20views&color=6366f1&style=flat-square)
 
 Also: [npm](https://www.npmjs.com/~siddharthasingh) · [Medium](https://medium.com/@siddhartha_23998) · [X](https://x.com/siddhartha_664)
 
