@@ -143,6 +143,8 @@ More on tools and hardware: [siddhartha.pro/uses](https://www.siddhartha.pro/use
 
 Prefer the portfolio contact form or LinkedIn for introductions; email for anything direct.
 
+**Open to:** campus talks and open source workshops · OSS collaboration · product and systems engineering conversations
+
 [siddhartha.pro](https://www.siddhartha.pro/) · [LinkedIn](https://www.linkedin.com/in/siddhartha-singh-3ab11426b) · [npm](https://www.npmjs.com/~siddharthasingh) · [Email](mailto:siddharthagithub0007@gmail.com)
 
 If you maintain a project I have opened a PR on, or you want to talk about EliteFolks, open source, or systems work · write. I read carefully and reply when I can add something useful.
