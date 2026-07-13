@@ -26,7 +26,29 @@ I design and ship products end to end · product architecture, UI systems, backe
 | Shipping | npm tooling for MCP and voice, product work on EliteFolks and Milestonenest |
 | Contributing | Grafana, Score Spec, Prometheus ecosystem, and related open source |
 | Learning | AWS architecture, Kubernetes, distributed systems |
-| Open to | Collaboration on open source, product engineering, and serious technical discussion |
+| Open to | Collaboration on open source, product engineering, speaking, and serious technical discussion |
+| Teaching | Open source education for students · ~1700 learners reached |
+
+---
+
+## Community & speaking
+
+I speak at colleges and student programs about open source in practice: what it actually looks like, how to start, how contribution works, and how to move from first issue to sustained work. The goal is not slogans · it is a clear path students can follow.
+
+| | |
+| :--- | :--- |
+| Reach | Taught open source fundamentals to roughly **1700 students** across sessions and programs |
+| GSSoC | Maintainer, GirlScript Summer of Code |
+| Summer of Bitcoin | Selected · completed the first **3 weeks** of the program |
+| Topics | Starting open source · reading a codebase · first PR · maintainer expectations · GSoC style programs |
+
+**Featured session**
+
+Resource person for *Getting Started with Google Summer of Code (GSoC 2026): From Beginner to Contributor* · **24 January 2026** · St. Joseph’s Group of Institutions, OMR, Chennai. The webinar drew **1231 students** (I, II, and III year) and covered the open source ecosystem, GSoC, and practical first steps for beginners.
+
+Event note (organizer post): [LinkedIn · Praba M](https://www.linkedin.com/posts/praba-m-134b97281_gsoc2026-opensource-webinar-share-7425503949719367680-AJQJ)
+
+Open to campus talks and workshops on the same themes. Prefer a clear audience and a concrete outcome for attendees.
 
 ---
 
