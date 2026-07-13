@@ -120,7 +120,7 @@ tsdb mmap head chunk deadlock investigation (open)
 
 Also touched: simstudioai/sim, NVIDIA/NemoClaw, jenkinsci/jenkins, nodejs/node, openml, community OSS during Hacktoberfest.
 
-Rough volume: **59** merged PRs · **~690** contributions in the last twelve months · **37+** merged PRs on EliteFolks alone.
+Rough volume: **59** merged PRs · **~690** contributions in the last twelve months.
 
 ---
 
