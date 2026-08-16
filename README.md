@@ -1,7 +1,7 @@
 # Siddhartha Singh
 
 **Co founder & CTO, [EliteFolks](https://elitefolks.in)** · Bangalore  
-Full stack and AI engineer · IIT Madras (BS, class of 2028)
+Full stack and AI engineer · 
 
 I design and ship products end to end · product architecture, UI systems, backend services, and the operational path to production. Most of my time goes into [EliteFolks](https://elitefolks.in), an AI powered learning platform for developers. Outside the company I publish packages, contribute upstream, and write software people can actually run.
 
